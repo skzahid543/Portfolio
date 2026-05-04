@@ -1,5 +1,5 @@
 export const personalInfo = {
-  name: "Your Name",
+  name: "Sk Abdul Zahid",
   headline:
     "Web Software Engineer | Full Stack Developer | UI/UX Developer | Frontend, Backend & Database Specialist",
   shortHeadline:
@@ -7,8 +7,8 @@ export const personalInfo = {
   email: "skabdulzahid730@gmail.com",
   phone: "+91 7303808457",
   location: "India",
-  github: "https://github.com/yourusername",
-  linkedin: "https://linkedin.com/in/yourusername",
+  github: "https://github.com/skzahid543",
+  linkedin: "https://www.linkedin.com/in/sk-abdul-zahid-98a345344?utm_source=share_via&utm_content=profile&utm_medium=member_android",
   resume: "/resume.pdf",
 };
 

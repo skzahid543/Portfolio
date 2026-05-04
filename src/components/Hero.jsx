@@ -72,14 +72,14 @@ export default function Hero() {
               <ArrowRight size={16} />
             </a>
 
-            <a
+            {/* <a
               href={personalInfo.resume}
               download
               className="inline-flex items-center gap-2 rounded-full border border-slate-300 bg-white px-6 py-3 text-sm font-semibold text-slate-800 shadow-sm transition duration-300 hover:-translate-y-0.5 hover:border-slate-400 dark:border-slate-700 dark:bg-slate-900 dark:text-white"
             >
               Download Resume
               <Download size={16} />
-            </a>
+            </a> */}
           </div>
 
           <div className="mt-8 flex items-center gap-5 text-xl text-slate-500 dark:text-slate-300">
